@@ -1,0 +1,31 @@
+Year,Month,Site,Product,Ad Cost,Impressions,Paid Clicks,Conversions,State
+2017,1,Clothing,t-shirts,0,1000,0,10,CA
+2018,1,Clothing,t-shirts,20,1500,150,15,CA
+2018,1,Clothing,t-shirts,30,2000,200,20,CA
+2017,2,Clothing,t-shirts,40,2500,250,25,FL
+2018,2,Clothing,t-shirts,50,3000,300,30,FL
+2018,2,Clothing,pants,60,3500,350,35,NY
+2017,3,Clothing,pants,70,4000,400,40,NY
+2018,3,Clothing,pants,80,4500,450,45,NY
+2018,3,Clothing,pants,90,5000,500,50,NY
+2017,3,Clothing,pants,100,5500,550,55,NY
+2018,1,Accessories,earings,110,6000,600,60,NY
+2018,1,Accessories,earings,120,6500,650,65,NY
+2017,1,Accessories,earings,130,7000,700,70,NY
+2018,1,Accessories,earings,0,7500,0,75,CA
+2018,2,Accessories,earings,150,8000,800,80,CA
+2017,3,Accessories,necklace,160,8500,850,85,CA
+2018,3,Accessories,necklace,170,9000,900,90,CA
+2018,3,Accessories,necklace,180,9500,950,95,FL
+2017,3,Accessories,necklace,190,10000,1000,100,FL
+2018,3,Accessories,necklace,200,10500,1050,105,FL
+2018,1,Shoes,flip flops,210,11000,1100,110,CA
+2017,2,Shoes,flip flops,220,11500,1150,115,FL
+2018,2,Shoes,flip flops,230,12000,1200,120,FL
+2018,2,Shoes,flip flops,240,12500,1250,125,NY
+2017,2,Shoes,flip flops,250,13000,1300,130,NY
+2018,2,Shoes,sneakers,260,13500,1350,135,NY
+2018,2,Shoes,sneakers,0,14000,0,140,NY
+2017,3,Shoes,sneakers,280,14500,1450,145,NY
+2017,3,Shoes,sneakers,290,15000,1500,150,NY
+2017,3,Shoes,sneakers,300,15500,1550,155,NY
